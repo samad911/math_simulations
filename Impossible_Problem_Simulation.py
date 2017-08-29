@@ -12,4 +12,4 @@ for z in l:
                 time.sleep(0.5)
                 n=1
 if i == 512 and n==0:
-    print '\n ------------ NOT HITS , I WON THE BET-----------! '
+    print '\n ------------ NO HITS-----------! '
